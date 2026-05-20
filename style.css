@@ -2,11 +2,24 @@
   text-align: center;
   font-family: Pixelify Sans;
   text-align: center;
+  color: white;
+  
 }
-
+h1{
+  font-size: 40px
+}
 body {
-  background-color: lawngreen
+  background-color:black;
 }
+  
 .about{
-  font-family: boldonse;
+  color: white;
+  font-family:"boldonse";
+  font-size: 10px;
+}
+img{
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-left: 15px;
+  
 }
