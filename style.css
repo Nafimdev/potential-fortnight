@@ -10,6 +10,11 @@ h1{
 
 body {
   background-color: black;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvpoc3V-0G2eT9TbnStu5atyt0WnHYdclrih6ob05YWLKnyiQVSbguYNW&s=10");
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+
 }
 
 .about{
